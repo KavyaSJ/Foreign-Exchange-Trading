@@ -92,6 +92,9 @@ Sharpe ratio
 
 Strategy vs Buy-and-Hold comparison
 
+<img width="1587" height="701" alt="image" src="https://github.com/user-attachments/assets/a2afcd6b-9498-42a4-9c79-e7e98bfddcbe" />
+
+
 Transaction cost modeling
 
 📈 Results Summary
