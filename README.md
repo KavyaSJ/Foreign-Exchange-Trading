@@ -77,12 +77,16 @@ Class imbalance addressed via class weights and two-stage modeling
 
 📊 Evaluation Metrics
 Classification Metrics
-
 Accuracy
-
 Precision, Recall, F1-score
 
+<img width="627" height="263" alt="image" src="https://github.com/user-attachments/assets/674aa7fb-5114-4b80-b90a-a757dfadf8d2" />
+
+
 ROC-AUC (One-vs-Rest for multiclass)
+
+<img width="881" height="690" alt="image" src="https://github.com/user-attachments/assets/b8b2c37d-1e0d-4ed1-90e7-15c4577f2b57" />
+
 
 Trading Performance Metrics
 
@@ -94,6 +98,9 @@ Strategy vs Buy-and-Hold comparison
 
 <img width="1587" height="701" alt="image" src="https://github.com/user-attachments/assets/a2afcd6b-9498-42a4-9c79-e7e98bfddcbe" />
 
+Feature Importance
+
+<img width="1278" height="692" alt="image" src="https://github.com/user-attachments/assets/e57db566-cc86-43cc-9bde-c33dbd015a6f" />
 
 Transaction cost modeling
 
